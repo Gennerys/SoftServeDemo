@@ -1,0 +1,11 @@
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task8Fibonacci\bin\Debug\NLog.config
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task8Fibonacci\bin\Debug\Task8Fibonacci.exe.config
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task8Fibonacci\bin\Debug\Task8Fibonacci.exe
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task8Fibonacci\bin\Debug\Task8Fibonacci.pdb
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task8Fibonacci\bin\Debug\NLog.dll
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task8Fibonacci\bin\Debug\NLog.xml
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task8Fibonacci\obj\Debug\Task8Fibonacci.csprojAssemblyReference.cache
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task8Fibonacci\obj\Debug\Task8Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task8Fibonacci\obj\Debug\Task8Fibonacci.csproj.CopyComplete
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task8Fibonacci\obj\Debug\Task8Fibonacci.exe
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task8Fibonacci\obj\Debug\Task8Fibonacci.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task7NumericSequence\bin\Debug\NLog.config
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task7NumericSequence\bin\Debug\Task7NumericSequence.exe.config
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task7NumericSequence\bin\Debug\Task7NumericSequence.exe
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task7NumericSequence\bin\Debug\Task7NumericSequence.pdb
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task7NumericSequence\bin\Debug\NLog.dll
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task7NumericSequence\bin\Debug\NLog.xml
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task7NumericSequence\obj\Debug\Task7NumericSequence.csproj.CoreCompileInputs.cache
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task7NumericSequence\obj\Debug\Task7NumericSequence.csproj.CopyComplete
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task7NumericSequence\obj\Debug\Task7NumericSequence.exe
+C:\Users\Ruff_Ruder\Desktop\Новая папка\ElementaryTasks\Task7NumericSequence\obj\Debug\Task7NumericSequence.pdb
