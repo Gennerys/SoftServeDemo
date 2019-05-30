@@ -1,0 +1,2 @@
+# SoftServeDemo
+Elementary Tasks
