@@ -10,3 +10,15 @@ C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGa
 C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\obj\Debug\ChessGame.csproj.CopyComplete
 C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\obj\Debug\ChessGame.exe
 C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\obj\Debug\ChessGame.pdb
+C:\Users\apapitc\Documents\SoftServeDemo\ElementaryTasks\ChessGame\bin\Debug\NLog.config
+C:\Users\apapitc\Documents\SoftServeDemo\ElementaryTasks\ChessGame\bin\Debug\ChessGame.exe.config
+C:\Users\apapitc\Documents\SoftServeDemo\ElementaryTasks\ChessGame\bin\Debug\ChessGame.exe
+C:\Users\apapitc\Documents\SoftServeDemo\ElementaryTasks\ChessGame\bin\Debug\ChessGame.pdb
+C:\Users\apapitc\Documents\SoftServeDemo\ElementaryTasks\ChessGame\bin\Debug\Task1Chess.exe
+C:\Users\apapitc\Documents\SoftServeDemo\ElementaryTasks\ChessGame\bin\Debug\Task1Chess.pdb
+C:\Users\apapitc\Documents\SoftServeDemo\ElementaryTasks\ChessGame\bin\Debug\Task1Chess.exe.config
+C:\Users\apapitc\Documents\SoftServeDemo\ElementaryTasks\ChessGame\obj\Debug\ChessGame.csprojAssemblyReference.cache
+C:\Users\apapitc\Documents\SoftServeDemo\ElementaryTasks\ChessGame\obj\Debug\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\apapitc\Documents\SoftServeDemo\ElementaryTasks\ChessGame\obj\Debug\ChessGame.csproj.CopyComplete
+C:\Users\apapitc\Documents\SoftServeDemo\ElementaryTasks\ChessGame\obj\Debug\ChessGame.exe
+C:\Users\apapitc\Documents\SoftServeDemo\ElementaryTasks\ChessGame\obj\Debug\ChessGame.pdb
