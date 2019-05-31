@@ -5,3 +5,10 @@ C:\Users\Ruff_Ruder\source\repos\test\test\obj\Debug\test.csprojAssemblyReferenc
 C:\Users\Ruff_Ruder\source\repos\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
 C:\Users\Ruff_Ruder\source\repos\test\test\obj\Debug\test.exe
 C:\Users\Ruff_Ruder\source\repos\test\test\obj\Debug\test.pdb
+C:\Users\apapitc\Documents\SoftServeDemo\test\test\bin\Debug\test.exe.config
+C:\Users\apapitc\Documents\SoftServeDemo\test\test\bin\Debug\test.exe
+C:\Users\apapitc\Documents\SoftServeDemo\test\test\bin\Debug\test.pdb
+C:\Users\apapitc\Documents\SoftServeDemo\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\apapitc\Documents\SoftServeDemo\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\apapitc\Documents\SoftServeDemo\test\test\obj\Debug\test.exe
+C:\Users\apapitc\Documents\SoftServeDemo\test\test\obj\Debug\test.pdb

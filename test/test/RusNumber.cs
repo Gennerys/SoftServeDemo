@@ -32,7 +32,7 @@ namespace test
 
             int num = val % 1000;
             if (0 == num) return "";
-            if (num < 0) throw new ArgumentOutOfRangeException("val", "ѕараметр не может быть отрицательным");
+            if (num < 0) throw new ArgumentOutOfRangeException("val", "параметр не может быть отрицательным");
             if (!male)
             {
                 frac20[1] = "одна ";

@@ -9,6 +9,7 @@ namespace Task8Fibonacci
 {
     class Fibonacci_Sequence_Bine:FibonacciBase
     {
+        Logger logger = LogManager.GetCurrentClassLogger();
         //Fibonacci by Bine
         public override double Fibonacci(double n)
         {
@@ -21,7 +22,7 @@ namespace Task8Fibonacci
 
             result = Math.Round((Math.Pow(leftNumber, n) - Math.Pow(rightNumber, n)) / index);
 
-            Logger logger = LogManager.GetCurrentClassLogger();
+            //Logger logger = LogManager.GetCurrentClassLogger();
 
             logger.Info(result);
 
@@ -47,7 +48,7 @@ namespace Task8Fibonacci
         public StringBuilder GetFibonacciSequenceString(int leftBorder, int rightBorder, IEnumerable<double> source)
         {
 
-            Logger logger = LogManager.GetCurrentClassLogger();
+            //Logger logger = LogManager.GetCurrentClassLogger();
             StringBuilder result = new StringBuilder();
             foreach (var number in source)
             {
