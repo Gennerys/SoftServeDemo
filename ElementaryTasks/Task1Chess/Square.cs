@@ -9,6 +9,7 @@ namespace Task1Chess
     struct Square
     {
         public static Square none = new Square(-1, -1);
+
         public int X { get; private set; }
         public int Y { get; private set; }
 

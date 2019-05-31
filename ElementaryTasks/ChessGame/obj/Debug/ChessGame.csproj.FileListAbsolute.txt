@@ -1,0 +1,12 @@
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\bin\Debug\NLog.config
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\bin\Debug\ChessGame.exe.config
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\bin\Debug\ChessGame.exe
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\bin\Debug\ChessGame.pdb
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\bin\Debug\Task1Chess.exe
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\bin\Debug\Task1Chess.pdb
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\bin\Debug\Task1Chess.exe.config
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\obj\Debug\ChessGame.csprojAssemblyReference.cache
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\obj\Debug\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\obj\Debug\ChessGame.csproj.CopyComplete
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\obj\Debug\ChessGame.exe
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\ChessGame\obj\Debug\ChessGame.pdb

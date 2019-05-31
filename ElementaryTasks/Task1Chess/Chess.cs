@@ -10,22 +10,33 @@ namespace Task1Chess
 
     public class Chess
     {
+        Board _board;
+
         public string Fen { get; private set; }
 
         public Chess(string fen = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1")
         {
             Fen = fen;
+            _board = new Board(Fen);
+        }
+        Chess (Board board)
+        {
+            _board = board;
         }
 
         public Chess Move(string move)
         {
-            Chess nextChess = new Chess(Fen);
+            FigureMoving fm = new FigureMoving(move);
+            Board nextBoard = _board.Move(fm); 
+            Chess nextChess = new Chess(nextBoard);
             return nextChess;
         }
 
         public char GetFigureAt(int x, int y)
         {
-            return '.';
+            Square square = new Square(x, y);
+            Figure f = _board.GetFigureAt(square);
+            return f == Figure.none ? '.' : (char)f;
         }
     }
 }
