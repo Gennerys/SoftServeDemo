@@ -1,0 +1,11 @@
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task4FileParser\bin\Debug\NLog.config
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task4FileParser\bin\Debug\Task4FileParser.exe.config
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task4FileParser\bin\Debug\Task4FileParser.exe
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task4FileParser\bin\Debug\Task4FileParser.pdb
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task4FileParser\bin\Debug\NLog.dll
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task4FileParser\bin\Debug\NLog.xml
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task4FileParser\obj\Debug\Task4FileParser.csprojAssemblyReference.cache
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task4FileParser\obj\Debug\Task4FileParser.csproj.CoreCompileInputs.cache
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task4FileParser\obj\Debug\Task4FileParser.csproj.CopyComplete
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task4FileParser\obj\Debug\Task4FileParser.exe
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task4FileParser\obj\Debug\Task4FileParser.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task2Envelope\bin\Debug\NLog.config
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task2Envelope\bin\Debug\Task2Envelope.exe.config
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task2Envelope\bin\Debug\Task2Envelope.exe
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task2Envelope\bin\Debug\Task2Envelope.pdb
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task2Envelope\bin\Debug\NLog.dll
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task2Envelope\bin\Debug\NLog.xml
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task2Envelope\obj\Debug\Task2Envelope.csprojAssemblyReference.cache
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task2Envelope\obj\Debug\Task2Envelope.csproj.CoreCompileInputs.cache
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task2Envelope\obj\Debug\Task2Envelope.csproj.CopyComplete
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task2Envelope\obj\Debug\Task2Envelope.exe
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task2Envelope\obj\Debug\Task2Envelope.pdb

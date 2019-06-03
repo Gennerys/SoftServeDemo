@@ -17,7 +17,7 @@ namespace test
             Register("RUR", true, "рубль", "рубл¤", "рублей", "копейка", "копейки", "копеек");
             Register("EUR", true, "евро", "евро", "евро", "евроцент", "евроцента", "евроцентов");
             Register("USD", true, "доллар", "доллара", "долларов", "цент", "цента", "центов");
-            ConfigurationSettings.GetConfig("currency-names");
+           // ConfigurationSettings.GetConfig("currency-names");
         }
 
         public static void Register(string currency, bool male,

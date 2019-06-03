@@ -1,0 +1,11 @@
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task5NumberConverter\bin\Debug\NLog.config
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task5NumberConverter\bin\Debug\Task5NumberConverter.exe.config
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task5NumberConverter\bin\Debug\Task5NumberConverter.exe
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task5NumberConverter\bin\Debug\Task5NumberConverter.pdb
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task5NumberConverter\bin\Debug\NLog.dll
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task5NumberConverter\bin\Debug\NLog.xml
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task5NumberConverter\obj\Debug\Task5NumberConverter.csprojAssemblyReference.cache
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task5NumberConverter\obj\Debug\Task5NumberConverter.csproj.CoreCompileInputs.cache
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task5NumberConverter\obj\Debug\Task5NumberConverter.csproj.CopyComplete
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task5NumberConverter\obj\Debug\Task5NumberConverter.exe
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task5NumberConverter\obj\Debug\Task5NumberConverter.pdb

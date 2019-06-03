@@ -10,6 +10,27 @@ namespace Task5NumberConverter
     {
         static void Main(string[] args)
         {
+            try
+            {
+                UI.GetAnswer(args);
+            }
+            catch(ArgumentOutOfRangeException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch(ArgumentException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch(FormatException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
         }
     }
 }
