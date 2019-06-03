@@ -8,16 +8,43 @@ namespace Task2Envelope
 {
     class Envelope
     {
-       public double EnvelopeHeight
-        { get; set; }
+        private double _height;
+        private double _width;
 
-        public double EnvelopeWidth
+        public double Height
+        {
+            get
+            {
+                return _height;
+
+            }
+            set
+            {
+                _height = value;
+                SetBiggerSizeAsWidth();
+            }
+
+        }
+
+        public double Width
         { get; set; }
 
         public Envelope(double height,double width)
         {
-            EnvelopeHeight = height;
-            EnvelopeWidth = width;
+            Height = height;
+            Width = width;
+            SetBiggerSizeAsWidth();
+        }
+
+        private void SetBiggerSizeAsWidth()
+        {
+            if(Height < Width)
+            {
+                double temp;
+                temp = Width;
+                Width = Height;
+                Height = temp;
+            }
         }
     }
 }

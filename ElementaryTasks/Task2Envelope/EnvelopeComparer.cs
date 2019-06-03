@@ -10,13 +10,13 @@ namespace Task2Envelope
     {
          public int Compare(T firstEnvelope, T secondEnvelope)
         {
-            if (firstEnvelope.EnvelopeHeight < secondEnvelope.EnvelopeHeight &&
-                firstEnvelope.EnvelopeWidth < secondEnvelope.EnvelopeWidth)
+            if (firstEnvelope.Height < secondEnvelope.Height &&
+                firstEnvelope.Width < secondEnvelope.Width)
             {
                 return 1;
             }
-            else if (firstEnvelope.EnvelopeHeight == secondEnvelope.EnvelopeHeight && 
-                     firstEnvelope.EnvelopeWidth == secondEnvelope.EnvelopeWidth) 
+            else if (firstEnvelope.Height == secondEnvelope.Height && 
+                     firstEnvelope.Width == secondEnvelope.Width) 
                  {
                      return 0;
                  }
