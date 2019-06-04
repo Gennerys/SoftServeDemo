@@ -8,31 +8,28 @@ namespace Task2Envelope
 {
     public  static class Validator
     {
-
-
-        public static bool InputValidation(ref double firstEnvelopeHeight, ref double firstEnvelopeWidth, ref double secondEnvelopeHeight, ref double secondEnvelopeWidth)
+        public static bool Input(string first, string second,string third,string forth, out double [] mas)
         {
-            Console.WriteLine("Введите параметры конвертов");
-
-            bool isFirstEnvelopeHeightChecked = double.TryParse(Console.ReadLine(), out firstEnvelopeHeight);
-            bool isFirstEnvelopeWidthChecked = double.TryParse(Console.ReadLine(), out firstEnvelopeWidth);
-            bool isSecondEnvelopeHeightChecked = double.TryParse(Console.ReadLine(), out secondEnvelopeHeight);
-            bool isSecondEnvelopeWidthChecked = double.TryParse(Console.ReadLine(), out secondEnvelopeWidth);
+            mas = new double[4];
+            bool isFirstEnvelopeHeightChecked = double.TryParse(first, out mas[0]);
+            bool isFirstEnvelopeWidthChecked = double.TryParse(second, out mas[1]);
+            bool isSecondEnvelopeHeightChecked = double.TryParse(third, out mas[2]);
+            bool isSecondEnvelopeWidthChecked = double.TryParse(forth, out mas[3]);
 
             if (isFirstEnvelopeHeightChecked && isFirstEnvelopeWidthChecked &&
                 isSecondEnvelopeHeightChecked && isSecondEnvelopeWidthChecked &&
-                firstEnvelopeHeight > 0.0 && firstEnvelopeWidth > 0.0 &&
-                secondEnvelopeHeight > 0.0 && secondEnvelopeWidth > 0.0)
+                mas[0] > 0.0 && mas[1] > 0.0 &&
+                mas[2] > 0.0 && mas[3] > 0.0)
             { return true; }
             else
             {
-                 //throw new FormatException("Недопустимый ввод, введите пожалуйста целые/дробные числа"); 
                 return false;
-
             }
 
-
         }
+
+
+
 
     }
 }

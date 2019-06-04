@@ -27,7 +27,19 @@ namespace Task2Envelope
         }
 
         public double Width
-        { get; set; }
+        {
+            get
+            {
+                return _width;
+
+            }
+            set
+            {
+                _width = value;
+                SetBiggerSizeAsWidth();
+
+            }
+        }
 
         public Envelope(double height,double width)
         {

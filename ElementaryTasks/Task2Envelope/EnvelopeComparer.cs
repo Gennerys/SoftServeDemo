@@ -8,22 +8,25 @@ namespace Task2Envelope
 {
     class EnvelopeComparer<T> : IComparer<T> where T : Envelope
     {
-         public int Compare(T firstEnvelope, T secondEnvelope)
+        public int Compare(T firstEnvelope, T secondEnvelope)
         {
+            int result;
+
             if (firstEnvelope.Height < secondEnvelope.Height &&
                 firstEnvelope.Width < secondEnvelope.Width)
             {
-                return 1;
+                result = 1;
             }
-            else if (firstEnvelope.Height == secondEnvelope.Height && 
-                     firstEnvelope.Width == secondEnvelope.Width) 
+            else if (firstEnvelope.Height == secondEnvelope.Height &&
+                     firstEnvelope.Width == secondEnvelope.Width)
                  {
-                     return 0;
+                     result = 0;
                  }
-           
             else
-            { return -1; }
-            
+            {
+                result = -1;
+            }
+            return result;
         }
     }
 }

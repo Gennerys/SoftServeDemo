@@ -10,32 +10,20 @@ namespace Task2Envelope
     {
         static void Main(string[] args)
         {
-
             try
             {
-
-                while (UI.isWorking)
+                do
                 {
-                    if (UI.GetAnswer())
-                    {
-                        UI.CheckResults();
-                    }
-                    else
-                    {
-                        if (UI.GetAnswer())
-                        {
-                            UI.CheckResults();
-                        }
-
-                    }
+                    Controller.ConfirmValidation();
                 }
+                while (Controller.ContinueWork());
+
             }
             catch (FormatException ex)
             {
                 Console.WriteLine(ex.Message);
-
             }
-            
+
         }
 
     }
