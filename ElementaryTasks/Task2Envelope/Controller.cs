@@ -3,15 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NLog;
 
 namespace Task2Envelope
 {
     static class Controller
     {
-       // public static bool isWorking = true;
+      
 
         public static void ConfirmValidation()
         {
+            Logger logger = LogManager.GetCurrentClassLogger();
             UI.ShowMessage("Введите высоту и ширину конвертов: ");
             bool isValidationCompleted = Validator.Input(UI.InputFromConsole(), UI.InputFromConsole(), UI.InputFromConsole(), UI.InputFromConsole(), out double[] mas);
 
@@ -32,7 +34,7 @@ namespace Task2Envelope
                 {
                     UI.ShowMessage("Конверты равны");
                 }
-               
+                logger.Info("Comparing completed");
             }
             else
             {

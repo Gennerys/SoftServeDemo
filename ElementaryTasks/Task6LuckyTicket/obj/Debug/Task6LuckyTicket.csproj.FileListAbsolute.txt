@@ -1,0 +1,11 @@
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task6LuckyTicket\bin\Debug\NLog.config
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task6LuckyTicket\bin\Debug\Task6LuckyTicket.exe.config
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task6LuckyTicket\bin\Debug\Task6LuckyTicket.exe
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task6LuckyTicket\bin\Debug\Task6LuckyTicket.pdb
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task6LuckyTicket\bin\Debug\NLog.dll
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task6LuckyTicket\bin\Debug\NLog.xml
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task6LuckyTicket\obj\Debug\Task6LuckyTicket.csprojAssemblyReference.cache
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task6LuckyTicket\obj\Debug\Task6LuckyTicket.csproj.CoreCompileInputs.cache
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task6LuckyTicket\obj\Debug\Task6LuckyTicket.csproj.CopyComplete
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task6LuckyTicket\obj\Debug\Task6LuckyTicket.exe
+C:\Users\Ruff_Ruder\Desktop\SoftServeDemos\SoftServeDemo\ElementaryTasks\Task6LuckyTicket\obj\Debug\Task6LuckyTicket.pdb

@@ -10,6 +10,9 @@ namespace Task6LuckyTicket
     {
         static void Main(string[] args)
         {
+            
+            Controller.Run(args);
+            Console.ReadKey();
         }
     }
 }

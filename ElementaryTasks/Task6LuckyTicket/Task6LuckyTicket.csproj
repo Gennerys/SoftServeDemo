@@ -51,13 +51,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Context.cs" />
-    <Compile Include="ILuckyTicket.cs" />
-    <Compile Include="MoscowTicket.cs" />
-    <Compile Include="PiterTicket.cs" />
+    <Compile Include="AlgorithmChooser.cs" />
+    <Compile Include="Controller.cs" />
+    <Compile Include="InputModel.cs" />
+    <Compile Include="MoscowTicketProcess.cs" />
+    <Compile Include="PiterTicketProcess.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Ticket.cs" />
+    <Compile Include="TicketAnalyzer.cs" />
+    <Compile Include="UI.cs" />
+    <Compile Include="Validator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

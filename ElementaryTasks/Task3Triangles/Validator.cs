@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task6LuckyTicket
+namespace Task3Triangles
 {
-    public class PiterTicket
+    class Validator
     {
+
     }
 }

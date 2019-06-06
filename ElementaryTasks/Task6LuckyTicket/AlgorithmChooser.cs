@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Task6LuckyTicket
 {
-    public class MoscowTicket
+    abstract class AlgorithmChooser
     {
-
+       public abstract bool IsTicketLucky(Ticket ticket);
     }
 }
